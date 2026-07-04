@@ -27,8 +27,8 @@
     </a>
 </div>
 
-### 🌐Portfolio
-> [!IMPORTANT]  
+### 
+> [!PORTFOLIO]  
 > <a href="https://amey-apankar.github.io/portfolio/" target="_blank">Check out my interactive portfolio here!</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=footer" alt="footer"/>
