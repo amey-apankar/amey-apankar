@@ -1,16 +1,82 @@
-# 💫 About Me:
-I'm a B.Tech Computer Science student passionate about learning and building cool things with code.<br>Currently diving deep into:<br><br>🐍 Python<br><br>💻 C++<br><br>I'm here to explore, contribute, and grow with the open-source community!<br><br>
+<!--
+    Hey there, I'm Amey Kalpesh Apankar![cite: 2]
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @amey-apankar :))[cite: 2]
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00d2ff&width=435&lines=Hello%2C+it's+Amey+Apankar;Full-Stack+Developer;AI+%26+Data+Science" alt="Amey Apankar"/>
+</a>
+
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+
+<div>
+    <img src="./assets/about_amey.gif" alt="About Me Terminal GIF"/>
+</div>
+
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,react,astro,firebase,tailwind,gcp,git,github,vercel,cloudflare)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=fastapi,linux,androidstudio)](https://skillicons.dev)
+
+<!--
+     I also have my own blog with useful information, check it out ^^ 
+-->
+
+### Featured Projects
+<div> 
+  <a href="https://explorica-2pd.pages.dev">
+    <img src="https://img.shields.io/badge/Explorica-121212?style=for-the-badge&logo=cloudflare&logoColor=white" target="_blank" alt="Explorica">
+  </a>
+  <a href="https://jodhpur-trekkers.pages.dev">
+    <img src="https://img.shields.io/badge/Jodhpur_Trekkers-121212?style=for-the-badge&logo=astro&logoColor=white" target="_blank" alt="Jodhpur Trekkers">
+  </a>
+</div>
+
+You can find my deployed platforms above, demonstrating my focus on high-performance web applications and AI-driven systems like ROVER. 
+I am pursuing B.Tech CSE at DPU and a B.S. AI/DS at IIT Jodhpur. 
+
+<!--
+Check out my latest post 👇  
+
+<a href="https://github.com/amey-apankar" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=amey-apankar&theme=radical&show_icons=true&bg_color=121212&text_color=ffffff" alt="GitHub Stats" />
+</a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amey_apankar) 
+[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML](https://img.icons8.com/?size=100&id=GVJBHeCB0gGv&format=png&color=000000)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amey-apankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amey-apankar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amey-apankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=amey-apankar&icon=0&color=0)](https://visitcount.itsvg.in)
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/amey-apankar">
+        <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:apankaramey5@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="37" height="37"/>
+    </a>
+    <a href="https://github.com/amey-apankar">
+        <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Thanks for being my guest <3
+-->
