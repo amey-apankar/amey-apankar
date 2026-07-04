@@ -30,9 +30,9 @@
 <br/>
 <div align="left">
     <h3> See My Work In Action</h3>
-    <p><i>Click here dive deeper into my projects, hackathon builds, and development journey.</i></p>
+    <p><i>Dive deeper into my projects, hackathon builds, and development journey.</i></p>
     <a href="https://amey-apankar.github.io/portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_My_Interactive_Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=00d2ff" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Click_to_explore_My_Interactive_Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=00d2ff" alt="Portfolio"/>
     </a>
 </div>
 <br/>
