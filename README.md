@@ -1,12 +1,3 @@
-<!--
-    Hey there, I'm Amey Kalpesh Apankar!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @amey-apankar :))
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
