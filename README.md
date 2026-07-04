@@ -27,8 +27,14 @@
     </a>
 </div>
 
-### 
-> [!PORTFOLIO]  
-> <a href="https://amey-apankar.github.io/portfolio/" target="_blank">Check out my interactive portfolio here!</a>
+<br/>
+<div align="center">
+    <h3> See My Work In Action</h3>
+    <p><i>Dive deeper into my projects, hackathon builds, and development journey.</i></p>
+    <a href="https://amey-apankar.github.io/portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_My_Interactive_Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=00d2ff" alt="Portfolio"/>
+    </a>
+</div>
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=footer" alt="footer"/>
