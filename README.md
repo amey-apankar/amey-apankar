@@ -1,13 +1,13 @@
 <!--
-    Hey there, I'm Amey Kalpesh Apankar![cite: 2]
+    Hey there, I'm Amey Kalpesh Apankar!
     Happy to see you here exploring my README code
     Feel free to inspire!
     
     But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @amey-apankar :))[cite: 2]
+    You may also want to connect with me on LinkedIn @amey-apankar :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00d2ff&width=435&lines=Hello%2C+it's+Amey+Apankar;Full-Stack+Developer;AI+%26+Data+Science" alt="Amey Apankar"/>
@@ -67,15 +67,17 @@ Check out my latest post 👇
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/amey-apankar">
-        <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="mailto:apankaramey5@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="37" height="37"/>
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35" height="35"/>
     </a>
     <a href="https://github.com/amey-apankar">
-        <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="35" height="35"/>
     </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
