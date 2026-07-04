@@ -28,7 +28,7 @@
 </div>
 
 <br/>
-<div align="center">
+<div align="left">
     <h3> See My Work In Action</h3>
     <p><i>Dive deeper into my projects, hackathon builds, and development journey.</i></p>
     <a href="https://amey-apankar.github.io/portfolio/" target="_blank">
